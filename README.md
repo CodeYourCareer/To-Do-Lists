@@ -80,7 +80,7 @@ Simply open the `index.html` file in your browser:
 
 ### Main Interface:
 
-![To-Do List Main Interface](./Screenshot (4))
+![To-Do List Main Interface](./Screenshot_(4))
 
 ---
 
